@@ -1,0 +1,279 @@
+picotron cartridge // www.picotron.net
+version 2
+
+:: gfx/
+:: gfx/0.gfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTozOSIscmV2aXNpb249NDk1XV1sejQA7QMAAFA2AADzIXtbMF09e2JtcD1weHUA
+QyAQEATwVgcQB8AX0BfABxAH8FYsZmxhZ3M9MCxwYW5feAgAx3k9MCx6b29tPTh9LD4A-DEgIATw
+AhFgIfADARYBQAEWAfAEEQYBIAEGAfAHAQZBBgHwBCF-HRHwAhGuEfABAS5BDkHwAQEeDRcRBw4H
+EQcBDQDyUi4NJw0ODRcNAcBBDS4tLh0OAaAhLhGuDQGQEQ1OAR0OIT4NEZABDV4hbSGQEQ1eDQ8V
+gbABDV4NHGUBwAEdLh0sZRGgER1BPFUMQWABHREnESVcBREXEVABHQFHAZUBNwEKACUMhQsA9DSM
+ETcBUBENEScRFUwVIRcRYAEdQRxlEQAxcBE9rAHgIR2cEfAAMXwhwPEFkBFFEUARRRFwEWUBQAFl
+EWABdQFAAXUBCAAfMDoBHTEiIVA6ASMRMDoBfxEQAQYR8AY6AV5BDU4dHDoB4y4dPFUMAaABLUEM
+JVwFRAEVlUIBDjgBsAFHARVMFRE3AWABRAHgDGUxFxFgEQ1BjAEQMYA9AZ_wcXxBkBFFkTU3ATeg
+IyEgIfAGARYRADcBsAcRBhEGEfAHIQYRdgIQETUB8QADEZ4R8AIBPkEOIfACAS4oATsBBwEMABA_
+MwHBBw0BwFFOLR4NDhGQMQEhIXAxAYIeIS4NEQcBcDMBMBcBYDUBEZHoAFFeDR8VZfMAAXIClCEX
+EVARHUFMRXQCQTVMBbAkASSVsDYBE6A0ARSgagIhEbBoAv8fIbARPVyBsCEdTBFlAcAxTAF1AcAB
+RQEQARVcAcARJREQAXwB0EEgAVwR8AdhYCkBHR8DKQFDCloCASkBCFoCQEEPFXE3AQHqADABAAFU
+AyANTgABERU0AkAdLh0MDQARDEwCEH0MACEcBQwAIG0csgMBbgKwbSxBDCVBYAFtDAU2ATFdDCU0
+ASFdLDMBCJkDkPACwfADAUVBBckAMFUBRS4DQ2UBRQEHAB9gXgJ0CjUBE0E0AUExJxENNgExIUch
+jwNiDxUFAUcRkgMxAUchkwMQLFkD8QYBoAF9DCVBDAUBoAFtHJUxcAFtLIVcAQEjATMnAWAlATEn
+AXAnAfAJJwFwES2BLCEXEYBBZQEcEQAxoCF1MfADWwJA8AYBfAUAb1wh8AZxwCIBHU-----zNAAZ
+AGMGH-AxAP-------------e-zIACL8YAgAoniIOGB4iHlI_Ih5iHiI_Ug8VDiIegg0OAj6CDQ7S
+DQ6STQ5ifQ5CLUIdDhI9Ui2SjQK9ES1hPQDRAKEAHg8xAP------------------------------
+-----------------4tQbT04fX0=
+:: gfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTozOSJdXQ==
+:: map/
+:: map/0.map
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTozOSIscmV2aXNpb249NDgzXV1sejQAlQIAAHBAAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDY0AwAvIjABAP--8C80MAAB--AfNAAB-1kXNAQADwEAcQ6MAA9wAFMvNDABAHMOjAAP
+ZABLGzQEAA8BAG0OiAAPZABHDgQADwEAbw6IAA9kAEcOBAAPAQBvDogADhwABAQADwEADR80GAAI
+DwQAAw8BAG8OiAAOHAAEBAAPAQAJHzQEACIPAQBvHzQEABgPAQAFHzQEACYPAQBzHzQEAGYPAQD-
+----------------eB80AAH-8QwEAA8BANkeNAQADwEAvhc0BAAMAQAfNAQACg8BALMbNAQACAEA
+DBAABBQADwQACQ8BAJ0XNAQADAEADhQABhgADwQAFQ8BAI0fNAQACg8BABcfNAQAbA8BAAkbNAQA
+DwEAEg8sABwEMAAPBABlDwEACRs0BAAPAQASDywAHAQwAAgEAA8BAAUfNAQAQA8BAAkbNAQADwEA
+FS80MAEAQx80BABAFzAMAAQEAAQBABs0BAAPAQAVLzQwAQBDHzQEAEAXMAwABAQADwEALS80MAEA
+mxs0BAAPAQAtLzQwAQCoDwAB--------Ah80BAACDwEACx40BAAPAQBmHzQEABAPAQAFHzQEADoP
+AQBPHzQEADAEAQAMEAAPAQAdHzQEABAIAQAfNAQAAg8BABMfNAQAHAgBAB80BAAKDwEAJx80BAAQ
+CAEAHzQEAAIPAQBDFzQEAAgBAC80MAEAax40BAAPAQDaHjQEAA8BAP------------_u8R0iKSxo
+aWRkZW49ZmFsc2UsbmFtZT0iY29sbGlkYWJsZSIscGFuX3g9LTI0MwsA8gF5PS0zNjIsdGlsZV9o
+PTE2CgAQdwoAgHpvb209MX19
+:: map/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTozOSJdXQ==
+:: sfx/
+:: sfx/0.sfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTozOSIscmV2aXNpb249NDc5XV1sejQAoAAAAAsKAAD-MHB4dQADKAAABAAED0AQ
+Ag4AAaABIAKgDgAPEAAN8MoBAgNADw_QBAUGB0AMkAgJCgtADJAPDA8NDw4MQAzw-wEA6-8nqgEQ
+Bg8gEAEgASAB8AACEAIOEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYOMAD-----
+-70f-wEArM-ID0AADxBA--_w8P8BAP-qUP----8p
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTozOSJdXQ==
+:: actors.lua
+--[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-02 00:21:39",revision=569]]
+-- Actor module for MEAT
+include "data.lua" -- For sprite info
+
+-- global table
+actors = {}
+
+
+
+function create_actor(type, newx, newy, playable)
+	local new_actor = {}
+	
+	-- Essentials
+	new_actor.is_playable = playable
+	
+	-- Sprite Info
+	new_actor.sprite_index = type
+	new_actor.x = newx
+	new_actor.y = newy
+	new_actor.hflip = false
+	new_actor.vflip = false
+	
+	-- Animation Data
+	new_actor.animreel = generic_anims.idle
+	new_actor.ticker = 0
+	new_actor.animspeed = 5
+	new_actor.frame = 1
+	
+	-- Physics Data
+	new_actor.vx = 0
+	new_actor.vy = 0
+	new_actor.gfriction = 0.25
+	new_actor.afriction = 0.01
+	
+	-- Character Movement info
+	new_actor.accel = 0.5
+	new_actor.gspeed = 2.0
+	
+	-- "AI" thinking
+	new_actor.thought_time = 100
+	new_actor.thought_tick = 0
+		
+	-- Drawing actors:
+	function new_actor:draw()
+		-- Must catch if previous anim frame is higher than the reel allows
+		if(self.frame > #self.animreel) then
+			self.frame = 1
+		end
+
+		spr(self.sprite_index + self.animreel[self.frame], self.x, self.y, self.hflip, self.vflip)
+	end
+	
+	function new_actor:physics()
+		-- Apply Gravity
+		self.vy += 0.25
+		
+		-- Apply velocities
+		self.x += self.vx
+		self.y += self.vy
+		
+		-- On Ground physics only:
+		if(self.vx > 0 and self.vx > self.gspeed) then
+			self.vx = self.gspeed
+		elseif (self.vx < 0 and self.vx < -self.gspeed) then
+			self.vx = -self.gspeed
+		end
+		
+		if(self.vx > 0) then
+			self.vx -= self.gfriction
+		elseif(self.vx < 0) then
+			self.vx += self.gfriction
+		end
+		
+		-- Friction "juggle" fix
+		if(abs(self.vx) < self.gfriction) then
+			self.vx = 0
+		end
+		
+		-- Hardcoded Floor
+		if(self.y > 150) then
+			self.vy = 0
+			self.y = 150
+		end
+	end
+	
+	function new_actor:animate()
+	
+		-- Based on physics, choose reel:
+		if(abs(self.vx) > 0) then
+			self.animreel = generic_anims.walk
+		else
+			self.animreel = generic_anims.idle
+		end
+
+		self.ticker += 1
+		if(self.ticker > self.animspeed) then
+			self.ticker = 0
+			self.frame += 1
+			if(self.frame > #self.animreel) then
+				self.frame = 1
+			end
+		end
+	end
+	
+	function new_actor:get_input()
+		if(btn(0)) then
+			self.vx -= self.accel
+			self.hflip = true
+		end
+		
+		if(btn(1)) then
+			self.vx += self.accel
+			self.hflip = false
+		end
+	end
+	
+	function new_actor:ai()
+		self.thought_tick -= 1
+		if(self.thought_tick <= 0) then
+			self.thought_tick = self.thought_time + rnd(25)
+			self.hflip = not self.hflip
+		end
+		
+		if(self.hflip) then
+			self.vx -= self.accel
+		else
+			self.vx += self.accel
+		end
+	end
+	
+	function new_actor:control()
+		if(self.is_playable) then
+			self:get_input()
+		else
+			self:ai()
+		end
+	end
+	
+	add(actors, new_actor)
+end
+
+
+:: data.lua
+--[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-02 00:21:39",revision=206]]
+-- Data stuff
+
+generic_anims = {
+	idle = {0, 1},
+	walk = {2, 3, 4, 3},
+}
+:: main.lua
+--[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-02 00:21:39",revision=533]]
+include "actors.lua"
+
+function _init()
+	create_actor(1, 200, 200, true)
+	create_actor(1, 200, 100)
+	create_actor(1, 260, 100)
+
+end
+
+
+function _update()
+
+	-- Update Actors
+	for i, actor in ipairs(actors) do
+		actor:control()
+		actor:physics()
+	end
+end
+
+
+function _draw()
+	cls(12)
+	
+	map(0,0,0,0,64,64)
+
+	for i, actor in ipairs(actors) do
+		actor:animate()
+		actor:draw()
+	end
+	
+end
+:: tilemap.lua
+--[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-02 00:21:39",revision=53]]
+-- Tilemap module for MEAT
+include "utils.lua"
+
+solids = {1, 2, 3}
+	
+function define_solids(list):
+	solids = list
+end
+
+function is_solid16(x, y):
+	local tile_id = mapget(x // 8, y // 8)
+	if solids contains(tile_id) then
+		return true
+	else 
+		return false
+	end
+end
+	
+
+:: utils.py
+b64$LS1bW3BvZF9mb3JtYXQ9InJhdyIsY3JlYXRlZD0iMjAyNS0wNC0wMiAwMDoxNTozMyIsbW9k
+aWZpZWQ9IjIwMjUtMDQtMDIgMDA6MjE6MzkiLHJldmlzaW9uPTE2XV0KLS0gVXRpbGl0eSBmdW5j
+cyB0aGF0IGEgUHl0aG9uIGJveSB1c3VhbGx5IGV4cGVjdHMgdG8ganVzdCBiZSB0aGVyZS4KCmZ1
+bmN0aW9uIGNvbnRhaW5zKGxpc3QsIHZhbHVlKQoJZm9yIF8sIHYgaW4gaXBhaXJzKGxpc3QpIGRv
+CiAgIAlpZiB2ID09IHZhbHVlIHRoZW4KCQkJcmV0dXJuIHRydWUKCQllbmQKCWVuZAoJcmV0dXJu
+IGZhbHNlCmVuZA==
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
+NC0wMiAwMDoyMTo0MCIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImFjdG9ycy5sdWEjNjAiLHdvcmtzcGFj
+ZV9pbmRleD0xfSx7bG9jYXRpb249ImRhdGEubHVhIzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+YXRpb249InRpbGVtYXAubHVhIzkiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWxz
+LnB5IzEwIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFj
+ZV9pbmRleD0yfSx7bG9jYXRpb249Im1hcC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2Nh
+dGlvbj0ic2Z4LzAuc2Z4Iix3b3Jrc3BhY2VfaW5kZXg9NH19XV0=
+:: [eoc]
