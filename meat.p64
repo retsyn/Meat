@@ -4,7 +4,7 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNiIscmV2aXNpb249NjA4XV1sejQA7QMAAFA2AADzIXtbMF09e2JtcD1weHUA
+NC0wMiAyMzoyODoxNiIscmV2aXNpb249Nzc4XV1sejQA7QMAAFA2AADzIXtbMF09e2JtcD1weHUA
 QyAQEATwVgcQB8AX0BfABxAH8FYsZmxhZ3M9MCxwYW5feAgAx3k9MCx6b29tPTh9LD4A-DEgIATw
 AhFgIfADARYBQAEWAfAEEQYBIAEGAfAHAQZBBgHwBCF-HRHwAhGuEfABAS5BDkHwAQEeDRcRBw4H
 EQcBDQDyUi4NJw0ODRcNAcBBDS4tLh0OAaAhLhGuDQGQEQ1OAR0OIT4NEZABDV4hbSGQEQ1eDQ8V
@@ -25,11 +25,11 @@ DQ6STQ5ifQ5CLUIdDhI9Ui2SjQK9ES1hPQDRAKEAHg8xAP------------------------------
 -----------------4tQbT04fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNyJdXQ==
+NC0wMiAyMzoyODoxNiJdXQ==
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNiIscmV2aXNpb249NjA4XV1sejQAygIAAHBAAADwCHt7Ym1wPXVzZXJkYXRh
+NC0wMiAyMzoyODoxNiIscmV2aXNpb249Nzc3XV1sejQAygIAAHBAAADwCHt7Ym1wPXVzZXJkYXRh
 KCJpMTYiLDY0AwAvIjABAP--8C80MAAB--AfNAAB-zkOUAAPIAADLzQwAQBzHzRQAEAfNCAAEC80
 MAEAcx80ZABUGzQMAAQEAA8BAG0fNGQAVA8EAAMPAQBvHzQQAAAEBAAPAQAJGzQEAA8BAAkfNAQA
 Bg8BAG8fNBAAAAgEAA8BAAUbNAQADwEACR80BAAGDwEAbx80FAAEBAQADwEABRs0BAAMAQAfNAQA
@@ -45,19 +45,19 @@ bj1mYWxzZSxuYW1lPSJjb2xsaWRhYmxlIixwYW5feD0tMzE5CwDyAXk9LTM5MCx0aWxlX2g9MTYK
 ABB3CgCAem9vbT0xfX0=
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNyJdXQ==
+NC0wMiAyMzoyODoxNiJdXQ==
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNiIscmV2aXNpb249NTg5XV1sejQAoAAAAAsKAAD-MHB4dQADKAAABAAED0AQ
+NC0wMiAyMzoyODoxNiIscmV2aXNpb249NzU4XV1sejQAoAAAAAsKAAD-MHB4dQADKAAABAAED0AQ
 Ag4AAaABIAKgDgAPEAAN8MoBAgNADw_QBAUGB0AMkAgJCgtADJAPDA8NDw4MQAzw-wEA6-8nqgEQ
 Bg8gEAEgASAB8AACEAIOEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYOMAD-----
 -70f-wEArM-ID0AADxBA--_w8P8BAP-qUP----8p
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNyJdXQ==
+NC0wMiAyMzoyODoxNiJdXQ==
 :: actors.lua
---[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-02 01:35:06",revision=704]]
+--[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-02 23:28:16",revision=923]]
 -- Actor module for MEAT
 include "data.lua" -- For sprite info
 include "tilemap.lua" -- For tilemap interaction
@@ -81,9 +81,9 @@ function create_actor(type, newx, newy, playable)
 	new_actor.vflip = false
 	
 	-- Rect Info
-	new_actor.w = 8
-	new_actor.h = 16
-	
+	new_actor.w = 32
+	new_actor.h = 32
+		
 	-- Animation Data
 	new_actor.animreel = generic_anims.idle
 	new_actor.ticker = 0
@@ -114,17 +114,66 @@ function create_actor(type, newx, newy, playable)
 		spr(self.sprite_index + self.animreel[self.frame], self.x, self.y, self.hflip, self.vflip)
 	end
 	
+	function new_actor:collision()
+		
+		nx = self.x + self.vx
+		ny = self.y + self.vy	
+
+		-- Collision		
+		-- down
+		if(self.vy > 0) then
+			for i = math.floor(self.y), math.floor(ny) do
+				if is_solid16(nx, i + self.h) or is_solid16(nx + self.w, i + self.h) then
+					self.vy = 0
+					self.y = i
+					break
+				end
+			end
+		end
+		
+		-- up
+		if(self.vy < 0) then
+			for i = math.floor(self.y), math.floor(ny), -1 do
+				if is_solid16(nx, i) or is_solid16(nx + self.w, i) then
+					self.vy = 0
+					self.y = i
+					break
+				end
+			end
+		end
+
+		
+		-- left
+		if(self.vx < 0) then
+			for i = math.floor(self.x), math.floor(nx), -1 do
+				if is_solid16(i, self.y) or is_solid16(i, self.y + self.h - 1) then
+					self.vx = 0
+					self.x = i
+					break
+				end
+			end
+		end
+
+		-- right
+		if(self.vx > 0) then
+			for i = math.floor(self.x), math.floor(nx) do
+				if is_solid16(i + self.w, self.y) or is_solid16(i + self.w, self.y + self.h - 1) then
+					self.vx = 0
+					self.x = i
+					break
+				end
+			end
+		end
+
+
+
+	end
+	
 	function new_actor:physics()
 		-- Apply Gravity
 		self.vy += 0.25
 		
-
-		-- Collision		
-		if(self.vy > 0) then
-			if is_solid16(self.x, self.y + self.h) or (is_solid16(self.x + self.w, self.y + self.h)) then
-				self.vy = 0
-			end
-		end
+		self:collision()	
 
 		-- Apply velocities
 		self.x += self.vx
@@ -148,9 +197,6 @@ function create_actor(type, newx, newy, playable)
 		if(abs(self.vx) < self.gfriction) then
 			self.vx = 0
 		end
-		
-	
-
 	end
 	
 	function new_actor:animate()
@@ -182,6 +228,10 @@ function create_actor(type, newx, newy, playable)
 			self.vx += self.accel
 			self.hflip = false
 		end
+		
+		if(btn(4)) then
+			self.vy = - 5
+		end
 	end
 	
 	function new_actor:ai()
@@ -211,7 +261,7 @@ end
 
 
 :: data.lua
---[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-02 01:35:06",revision=319]]
+--[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-02 23:28:16",revision=489]]
 -- Data stuff
 
 generic_anims = {
@@ -219,7 +269,7 @@ generic_anims = {
 	walk = {2, 3, 4, 3},
 }
 :: main.lua
---[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-02 01:35:06",revision=652]]
+--[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-02 23:28:16",revision=822]]
 include "actors.lua"
 
 function _init()
@@ -253,7 +303,7 @@ function _draw()
 	
 end
 :: tilemap.lua
---[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-02 01:35:06",revision=205]]
+--[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-02 23:28:16",revision=376]]
 -- Tilemap module for MEAT
 include "utils.lua"
 
@@ -269,7 +319,7 @@ end
 	
 
 :: utils.lua
---[[pod_format="raw",created="2025-04-02 01:12:55",modified="2025-04-02 01:35:06",revision=83]]
+--[[pod_format="raw",created="2025-04-02 01:12:55",modified="2025-04-02 23:28:16",revision=254]]
 -- Utility funcs that a Python boy usually expects to just be there.
 
 function contains(list, value)
@@ -289,11 +339,11 @@ CiAgIAlpZiB2ID09IHZhbHVlIHRoZW4KCQkJcmV0dXJuIHRydWUKCQllbmQKCWVuZAoJcmV0dXJu
 IGZhbHNlCmVuZA==
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMTozNTowNyIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
-IzQiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImFjdG9ycy5sdWEjNjQiLHdvcmtzcGFj
-ZV9pbmRleD0xfSx7bG9jYXRpb249ImRhdGEubHVhIzQiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
-YXRpb249InRpbGVtYXAubHVhIzciLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWxz
-Lmx1YSM5Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFj
-ZV9pbmRleD0yfSx7bG9jYXRpb249Im1hcC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2Nh
-dGlvbj0ic2Z4LzAuc2Z4Iix3b3Jrc3BhY2VfaW5kZXg9NH19XV0=
+NC0wMiAyMzoyODoxNiIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImFjdG9ycy5sdWEjMTAxIix3b3Jrc3Bh
+Y2VfaW5kZXg9MX0se2xvY2F0aW9uPSJkYXRhLmx1YSMxIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xv
+Y2F0aW9uPSJ0aWxlbWFwLmx1YSMxIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJ1dGls
+cy5sdWEjOSIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3Bh
+Y2VfaW5kZXg9Mn0se2xvY2F0aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9j
+YXRpb249InNmeC8wLnNmeCIsd29ya3NwYWNlX2luZGV4PTR9fV1d
 :: [eoc]
