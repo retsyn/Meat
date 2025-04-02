@@ -4,7 +4,7 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTozOSIscmV2aXNpb249NDk1XV1sejQA7QMAAFA2AADzIXtbMF09e2JtcD1weHUA
+NC0wMiAwMTozNTowNiIscmV2aXNpb249NjA4XV1sejQA7QMAAFA2AADzIXtbMF09e2JtcD1weHUA
 QyAQEATwVgcQB8AX0BfABxAH8FYsZmxhZ3M9MCxwYW5feAgAx3k9MCx6b29tPTh9LD4A-DEgIATw
 AhFgIfADARYBQAEWAfAEEQYBIAEGAfAHAQZBBgHwBCF-HRHwAhGuEfABAS5BDkHwAQEeDRcRBw4H
 EQcBDQDyUi4NJw0ODRcNAcBBDS4tLh0OAaAhLhGuDQGQEQ1OAR0OIT4NEZABDV4hbSGQEQ1eDQ8V
@@ -25,40 +25,42 @@ DQ6STQ5ifQ5CLUIdDhI9Ui2SjQK9ES1hPQDRAKEAHg8xAP------------------------------
 -----------------4tQbT04fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTozOSJdXQ==
+NC0wMiAwMTozNTowNyJdXQ==
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTozOSIscmV2aXNpb249NDgzXV1sejQAlQIAAHBAAADwCHt7Ym1wPXVzZXJkYXRh
-KCJpMTYiLDY0AwAvIjABAP--8C80MAAB--AfNAAB-1kXNAQADwEAcQ6MAA9wAFMvNDABAHMOjAAP
-ZABLGzQEAA8BAG0OiAAPZABHDgQADwEAbw6IAA9kAEcOBAAPAQBvDogADhwABAQADwEADR80GAAI
-DwQAAw8BAG8OiAAOHAAEBAAPAQAJHzQEACIPAQBvHzQEABgPAQAFHzQEACYPAQBzHzQEAGYPAQD-
-----------------eB80AAH-8QwEAA8BANkeNAQADwEAvhc0BAAMAQAfNAQACg8BALMbNAQACAEA
-DBAABBQADwQACQ8BAJ0XNAQADAEADhQABhgADwQAFQ8BAI0fNAQACg8BABcfNAQAbA8BAAkbNAQA
-DwEAEg8sABwEMAAPBABlDwEACRs0BAAPAQASDywAHAQwAAgEAA8BAAUfNAQAQA8BAAkbNAQADwEA
-FS80MAEAQx80BABAFzAMAAQEAAQBABs0BAAPAQAVLzQwAQBDHzQEAEAXMAwABAQADwEALS80MAEA
-mxs0BAAPAQAtLzQwAQCoDwAB--------Ah80BAACDwEACx40BAAPAQBmHzQEABAPAQAFHzQEADoP
-AQBPHzQEADAEAQAMEAAPAQAdHzQEABAIAQAfNAQAAg8BABMfNAQAHAgBAB80BAAKDwEAJx80BAAQ
-CAEAHzQEAAIPAQBDFzQEAAgBAC80MAEAax40BAAPAQDaHjQEAA8BAP------------_u8R0iKSxo
-aWRkZW49ZmFsc2UsbmFtZT0iY29sbGlkYWJsZSIscGFuX3g9LTI0MwsA8gF5PS0zNjIsdGlsZV9o
-PTE2CgAQdwoAgHpvb209MX19
+NC0wMiAwMTozNTowNiIscmV2aXNpb249NjA4XV1sejQAygIAAHBAAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDY0AwAvIjABAP--8C80MAAB--AfNAAB-zkOUAAPIAADLzQwAQBzHzRQAEAfNCAAEC80
+MAEAcx80ZABUGzQMAAQEAA8BAG0fNGQAVA8EAAMPAQBvHzQQAAAEBAAPAQAJGzQEAA8BAAkfNAQA
+Bg8BAG8fNBAAAAgEAA8BAAUbNAQADwEACR80BAAGDwEAbx80FAAEBAQADwEABRs0BAAMAQAfNAQA
+Eg8BAG8XNAQABAEAHjQEAA8BACofNAQABg8BAHMXNAQACAEAFzQEAA8BABkfNAQAFg8BAP------
+----------94HzQAAf-xDAQADwEA2R40BAAPAQC_FzQEAAwBAB80BAAKDwEAsxs0BAAIAQAMEAAE
+FAAPBAAJDwEAnRc0BAAMAQAOFAAGGAAPBAAVDwEAjR80BAAKDwEAFx80BABsDwEACRs0BAAPAQAS
+DywAHAQwAA8EAGUPAQAJGzQEAA8BABIPLAAcBDAACAQADwEABR80BABADwEACRs0BAAPAQAVLzQw
+AQBDHzQEAEAXMAwABAQABAEAGzQEAA8BABUvNDABAEMfNAQAQBcwDAAEBAAPAQAtLzQwAQCbGzQE
+AA8BAC0vNDABAKgPAAH-------8CHzQEAAIPAQALHjQEAA8BAGYfNAQAEA8BAAUfNAQAOg8BAE8f
+NAQAMAQBAAwQAA8BAB0fNAQAEAgBAB80BAACDwEAEx80BAAcCAEAHzQEAAoPAQAnHzQEABAIAQAf
+NAQAAg8BAEMXNAQACAEALzQwAQBrHjQEAA8BANoeNAQADwEA-------------67xHSIpLGhpZGRl
+bj1mYWxzZSxuYW1lPSJjb2xsaWRhYmxlIixwYW5feD0tMzE5CwDyAXk9LTM5MCx0aWxlX2g9MTYK
+ABB3CgCAem9vbT0xfX0=
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTozOSJdXQ==
+NC0wMiAwMTozNTowNyJdXQ==
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTozOSIscmV2aXNpb249NDc5XV1sejQAoAAAAAsKAAD-MHB4dQADKAAABAAED0AQ
+NC0wMiAwMTozNTowNiIscmV2aXNpb249NTg5XV1sejQAoAAAAAsKAAD-MHB4dQADKAAABAAED0AQ
 Ag4AAaABIAKgDgAPEAAN8MoBAgNADw_QBAUGB0AMkAgJCgtADJAPDA8NDw4MQAzw-wEA6-8nqgEQ
 Bg8gEAEgASAB8AACEAIOEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYOMAD-----
 -70f-wEArM-ID0AADxBA--_w8P8BAP-qUP----8p
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTozOSJdXQ==
+NC0wMiAwMTozNTowNyJdXQ==
 :: actors.lua
---[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-02 00:21:39",revision=569]]
+--[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-02 01:35:06",revision=704]]
 -- Actor module for MEAT
 include "data.lua" -- For sprite info
+include "tilemap.lua" -- For tilemap interaction
 
 -- global table
 actors = {}
@@ -77,6 +79,10 @@ function create_actor(type, newx, newy, playable)
 	new_actor.y = newy
 	new_actor.hflip = false
 	new_actor.vflip = false
+	
+	-- Rect Info
+	new_actor.w = 8
+	new_actor.h = 16
 	
 	-- Animation Data
 	new_actor.animreel = generic_anims.idle
@@ -112,9 +118,18 @@ function create_actor(type, newx, newy, playable)
 		-- Apply Gravity
 		self.vy += 0.25
 		
+
+		-- Collision		
+		if(self.vy > 0) then
+			if is_solid16(self.x, self.y + self.h) or (is_solid16(self.x + self.w, self.y + self.h)) then
+				self.vy = 0
+			end
+		end
+
 		-- Apply velocities
 		self.x += self.vx
 		self.y += self.vy
+
 		
 		-- On Ground physics only:
 		if(self.vx > 0 and self.vx > self.gspeed) then
@@ -134,11 +149,8 @@ function create_actor(type, newx, newy, playable)
 			self.vx = 0
 		end
 		
-		-- Hardcoded Floor
-		if(self.y > 150) then
-			self.vy = 0
-			self.y = 150
-		end
+	
+
 	end
 	
 	function new_actor:animate()
@@ -199,7 +211,7 @@ end
 
 
 :: data.lua
---[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-02 00:21:39",revision=206]]
+--[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-02 01:35:06",revision=319]]
 -- Data stuff
 
 generic_anims = {
@@ -207,11 +219,12 @@ generic_anims = {
 	walk = {2, 3, 4, 3},
 }
 :: main.lua
---[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-02 00:21:39",revision=533]]
+--[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-02 01:35:06",revision=652]]
 include "actors.lua"
 
 function _init()
-	create_actor(1, 200, 200, true)
+	create_actor(1, 100, 20, true)
+
 	create_actor(1, 200, 100)
 	create_actor(1, 260, 100)
 
@@ -240,19 +253,14 @@ function _draw()
 	
 end
 :: tilemap.lua
---[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-02 00:21:39",revision=53]]
+--[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-02 01:35:06",revision=205]]
 -- Tilemap module for MEAT
 include "utils.lua"
 
-solids = {1, 2, 3}
-	
-function define_solids(list):
-	solids = list
-end
 
-function is_solid16(x, y):
-	local tile_id = mapget(x // 8, y // 8)
-	if solids contains(tile_id) then
+function is_solid16(x, y)
+
+	if(mget(x // 16, y // 16, 0) != 0) then
 		return true
 	else 
 		return false
@@ -260,20 +268,32 @@ function is_solid16(x, y):
 end
 	
 
+:: utils.lua
+--[[pod_format="raw",created="2025-04-02 01:12:55",modified="2025-04-02 01:35:06",revision=83]]
+-- Utility funcs that a Python boy usually expects to just be there.
+
+function contains(list, value)
+	for _, v in ipairs(list) do
+   	if v == value then
+			return true
+		end
+	end
+	return false
+end
 :: utils.py
 b64$LS1bW3BvZF9mb3JtYXQ9InJhdyIsY3JlYXRlZD0iMjAyNS0wNC0wMiAwMDoxNTozMyIsbW9k
-aWZpZWQ9IjIwMjUtMDQtMDIgMDA6MjE6MzkiLHJldmlzaW9uPTE2XV0KLS0gVXRpbGl0eSBmdW5j
+aWZpZWQ9IjIwMjUtMDQtMDIgMDE6MTI6MzMiLHJldmlzaW9uPTUzXV0KLS0gVXRpbGl0eSBmdW5j
 cyB0aGF0IGEgUHl0aG9uIGJveSB1c3VhbGx5IGV4cGVjdHMgdG8ganVzdCBiZSB0aGVyZS4KCmZ1
 bmN0aW9uIGNvbnRhaW5zKGxpc3QsIHZhbHVlKQoJZm9yIF8sIHYgaW4gaXBhaXJzKGxpc3QpIGRv
 CiAgIAlpZiB2ID09IHZhbHVlIHRoZW4KCQkJcmV0dXJuIHRydWUKCQllbmQKCWVuZAoJcmV0dXJu
 IGZhbHNlCmVuZA==
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wMiAwMDoyMTo0MCIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
-IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImFjdG9ycy5sdWEjNjAiLHdvcmtzcGFj
-ZV9pbmRleD0xfSx7bG9jYXRpb249ImRhdGEubHVhIzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
-YXRpb249InRpbGVtYXAubHVhIzkiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWxz
-LnB5IzEwIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFj
+NC0wMiAwMTozNTowNyIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzQiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImFjdG9ycy5sdWEjNjQiLHdvcmtzcGFj
+ZV9pbmRleD0xfSx7bG9jYXRpb249ImRhdGEubHVhIzQiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+YXRpb249InRpbGVtYXAubHVhIzciLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWxz
+Lmx1YSM5Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFj
 ZV9pbmRleD0yfSx7bG9jYXRpb249Im1hcC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2Nh
 dGlvbj0ic2Z4LzAuc2Z4Iix3b3Jrc3BhY2VfaW5kZXg9NH19XV0=
 :: [eoc]
