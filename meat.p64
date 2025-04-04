@@ -4,60 +4,79 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMCIscmV2aXNpb249ODQyXV1sejQA7QMAAFA2AADzIXtbMF09e2JtcD1weHUA
-QyAQEATwVgcQB8AX0BfABxAH8FYsZmxhZ3M9MCxwYW5feAgAx3k9MCx6b29tPTh9LD4A-DEgIATw
-AhFgIfADARYBQAEWAfAEEQYBIAEGAfAHAQZBBgHwBCF-HRHwAhGuEfABAS5BDkHwAQEeDRcRBw4H
-EQcBDQDyUi4NJw0ODRcNAcBBDS4tLh0OAaAhLhGuDQGQEQ1OAR0OIT4NEZABDV4hbSGQEQ1eDQ8V
-gbABDV4NHGUBwAEdLh0sZRGgER1BPFUMQWABHREnESVcBREXEVABHQFHAZUBNwEKACUMhQsA9DSM
-ETcBUBENEScRFUwVIRcRYAEdQRxlEQAxcBE9rAHgIR2cEfAAMXwhwPEFkBFFEUARRRFwEWUBQAFl
-EWABdQFAAXUBCAAfMDoBHTEiIVA6ASMRMDoBfxEQAQYR8AY6AV5BDU4dHDoB4y4dPFUMAaABLUEM
-JVwFRAEVlUIBDjgBsAFHARVMFRE3AWABRAHgDGUxFxFgEQ1BjAEQMYA9AZ_wcXxBkBFFkTU3ATeg
-IyEgIfAGARYRADcBsAcRBhEGEfAHIQYRdgIQETUB8QADEZ4R8AIBPkEOIfACAS4oATsBBwEMABA_
-MwHBBw0BwFFOLR4NDhGQMQEhIXAxAYIeIS4NEQcBcDMBMBcBYDUBEZHoAFFeDR8VZfMAAXIClCEX
-EVARHUFMRXQCQTVMBbAkASSVsDYBE6A0ARSgagIhEbBoAv8fIbARPVyBsCEdTBFlAcAxTAF1AcAB
-RQEQARVcAcARJREQAXwB0EEgAVwR8AdhYCkBHR8DKQFDCloCASkBCFoCQEEPFXE3AQHqADABAAFU
-AyANTgABERU0AkAdLh0MDQARDEwCEH0MACEcBQwAIG0csgMBbgKwbSxBDCVBYAFtDAU2ATFdDCU0
-ASFdLDMBCJkDkPACwfADAUVBBckAMFUBRS4DQ2UBRQEHAB9gXgJ0CjUBE0E0AUExJxENNgExIUch
-jwNiDxUFAUcRkgMxAUchkwMQLFkD8QYBoAF9DCVBDAUBoAFtHJUxcAFtLIVcAQEjATMnAWAlATEn
-AXAnAfAJJwFwES2BLCEXEYBBZQEcEQAxoCF1MfADWwJA8AYBfAUAb1wh8AZxwCIBHU-----zNAAZ
-AGMGH-AxAP-------------e-zIACL8YAgAoniIOGB4iHlI_Ih5iHiI_Ug8VDiIegg0OAj6CDQ7S
-DQ6STQ5ifQ5CLUIdDhI9Ui2SjQK9ES1hPQDRAKEAHg8xAP------------------------------
------------------4tQbT04fX0=
+NC0wNCAxOTozNjowNCIscmV2aXNpb249MTA0Ml1dbHo0ADUFAACeNwAA8yF7WzBdPXtibXA9cHh1
+AEMgEBAE8FYHEAfAF9AXwAcQB-BWLGZsYWdzPTAscGFuX3gIAMd5PTAsem9vbT04fSw_APwxICAE
+8AIRYCHwAwEWAUABFgHwBBEGASABBgHwBwEGQQYB8AQhfx0R8AIRrhHwAQEuQQ5B8AEBHg0XEQcO
+BxEHAQ0A8lIuDScNDg0XDQHAQQ0uLS4dDgGgIS4Rrg0BkBENTgEdDiE_DRGQAQ1eIW0hkBENXg0P
+FYGwAQ1eDRxlAcABHS4dLGURoBEdQTxVDEFgAR0RJxElXAURFxFQAR0BRwGVATcBCgAlDIULAPQ0
+jBE3AVARDREnERVMFSEXEWABHUEcZREAMXARPawB4CEdnBHwADF8IcDxBZARRRFAEUURcBFlAUAB
+ZRFgAXUBQAF1AQgAHzA6AR0xIiFQOgEjETA6AX8REAEGEfAGOgFeQQ1OHRw6AeMuHTxVDAGgAS1B
+DCVcBUQBFZVCAQ44AbABRwEVTBURNwFgAUQB4AxlMRcRYBENQYwBEDGAPQGfsHF8QZARRZE1NwE3
+oCMhICHwBgEWEQA3AbAHEQYRBhHwByEGEXYCEBE1AfEAAxGeEfACAT5BDiHwAgEuKAE7AQcBDAAQ
+PjMBwQcNAcBRTi0eDQ4RkDEBISFwMQGCHiEuDREHAXAzATAXAWA1ARGR6ABRXg0fFWXzAAFyApQh
+FxFQER1BTEV0AkE1TAWwJAEklbA2AROgNAEUoGoCIRGwaAL-HyGwET1cgbAhHUwRZQHAMUwBdQHA
+AUUBEAEVXAHAESUREAF8AdBBIAFcEfAHYWApAR0fAykBQwpaAgEpAQhaAkBBDxVxNwEB6gAwAQAB
+VAMgDU4AAREVNAJAHS4dDA0AEQxMAhB9DAAhHAUMACBtHLIDAW4CsG0sQQwlQWABbQwFNgExXQwl
+NAEhXSwzAQiZA5DwAsHwAwFFQQXJADBVAUUuA0NlAUUBBwAfYF4CdAo1ARNBNAFBMScRDTYBMSFH
+IY8DYg8VBQFHEZIDMQFHIZMDECxZA-EGAaABfQwlQQwFAaABbRyVMXABbSyFXAEBIwEzJwFgJQEx
+JwFwJwHwCScBcBEtgSwhFxGAQWUBHBEAMaAhdTHwA1sCQPAGAXwFAG9cIfAGccAiAR1P----8zQA
+GQBjBh-wMQD-------------3v8tAMgPGADILkguGF44LhhuGC44XgIILhiOAggOOI4CCN4CCJ5C
+CG5yCE4iThIIHjJeIp6CDrIRImEyANEAawAchQ8TAx4DHgMOAgAiDxsIACENDhkAIQsNCwBQCz4D
+DR4MAHQLHgMLDgMNCAAxHgMNDgBgDxQeAx4TBADwNg4fFU8UDgMMDiwODB8VDBQMCkwUDAoMCiwK
+HBQMNBw6HCQcFAwKHDQKLBocGgxEDCocShwETBoMJBwaDBoULDQMCgwaDAYAYQQcKhwKDDwAPwwa
+DNcAHPADPxQPFQ8UFB4PFR4UHhQODS4dBADwKSQdDh0OBA0uHT4tLj0ODR4tDgQNJA4NDgQ9Dj0u
+HR4dXk0OPQ4UDg1OFA4NDg0uDR4UDjQePR4kQgAwHjQNIwDwCQ5EDi0eTR4ETh0OJB4dDh0ULjQO
+DQ4dDgYAIAQepA0BPAA-Dh0OVgIeDzEA--------------_j-x8fFTIOMm4iLhL_ExIuEs4yHiLO
+Mi4CjhIuIi4SzkK_Ik4yvjKOAi4SPhIuEv4XjgAeDzEA--------------------------------
+P1BtPTh9fQ==
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMSJdXQ==
+NC0wNCAxOTozNjowNCJdXQ==
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMCIscmV2aXNpb249ODQxXV1sejQAygIAAHBAAADwCHt7Ym1wPXVzZXJkYXRh
-KCJpMTYiLDY0AwAvIjABAP--8C80MAAB--AfNAAB-zkOUAAPIAADLzQwAQBzHzRQAEAfNCAAEC80
-MAEAcx80ZABUGzQMAAQEAA8BAG0fNGQAVA8EAAMPAQBvHzQQAAAEBAAPAQAJGzQEAA8BAAkfNAQA
-Bg8BAG8fNBAAAAgEAA8BAAUbNAQADwEACR80BAAGDwEAbx80FAAEBAQADwEABRs0BAAMAQAfNAQA
-Eg8BAG8XNAQABAEAHjQEAA8BACofNAQABg8BAHMXNAQACAEAFzQEAA8BABkfNAQAFg8BAP------
-----------94HzQAAf-xDAQADwEA2R40BAAPAQC_FzQEAAwBAB80BAAKDwEAsxs0BAAIAQAMEAAE
-FAAPBAAJDwEAnRc0BAAMAQAOFAAGGAAPBAAVDwEAjR80BAAKDwEAFx80BABsDwEACRs0BAAPAQAS
-DywAHAQwAA8EAGUPAQAJGzQEAA8BABIPLAAcBDAACAQADwEABR80BABADwEACRs0BAAPAQAVLzQw
-AQBDHzQEAEAXMAwABAQABAEAGzQEAA8BABUvNDABAEMfNAQAQBcwDAAEBAAPAQAtLzQwAQCbGzQE
-AA8BAC0vNDABAKgPAAH-------8CHzQEAAIPAQALHjQEAA8BAGYfNAQAEA8BAAUfNAQAOg8BAE8f
-NAQAMAQBAAwQAA8BAB0fNAQAEAgBAB80BAACDwEAEx80BAAcCAEAHzQEAAoPAQAnHzQEABAIAQAf
-NAQAAg8BAEMXNAQACAEALzQwAQBrHjQEAA8BANoeNAQADwEA-------------67xHSIpLGhpZGRl
-bj1mYWxzZSxuYW1lPSJjb2xsaWRhYmxlIixwYW5feD0tMzE5CwDyAXk9LTM5MCx0aWxlX2g9MTYK
-ABB3CgCAem9vbT0xfX0=
+NC0wNCAxOTozNjowNCIscmV2aXNpb249MTA1MV1dbHo0AKUFAABwAAEA8Ql7e2JtcD11c2VyZGF0
+YSgiaTE2IiwxMjgEAC8iMAEA----------------------------------------------------
+------------------------------8sHzQEAAIPAQD-2B80BAACDwEA-9gfNAQAAg8BAP-YHzQE
+AAIPAQD-2B80BAACDwEAVy80MAEA-2wfNAQAIg8BADcvNDABAP9sHzQEACIPAQD-1B80BAAGDwEA
+-9QfNAQABg8BAP------5B80BAAuDwEA-6wBxAEfMgQAJQ8AAv------uQ8EACoPAQD---------
+------8PLzQxBAAbDwEA-74vNDIEABsPAQD-vi80MgQAGw8BAP__LzQyBAAbDwEADS80MQQACw8B
+AP9_HzgEABgBBAIfMdABCy80MgQACw8BAP9_HzgEABguNDIEAAwBAC80MgQADB8xBAAPDwEA-1of
+OAQAGC80MgQAABsxBAAfMgQALw8BAP9aHzgEABgvNDIEAFQeMQQADwEA-0YfOAQAfC80MgQAAw8B
+AMEPlB1xHzgEAHwvNDIEAAMPAAL-Rhs0BAAfOAQAbC80MgQAAw8BAMEvNDCEAHMIBAAfOAQAhg8B
+AL8vNDCEAHMPBAAFHzgEAJQPAQAJFzQEAA8BAH0PlABxKzQyBAAfMAQACx84BACADwEACRc0BAAP
+AQB9D5QAcS80MgQAAB8wBAAXHzgEAHAPAQAJHzQEAAgIAQAbNAQADwEAIR80BAAQCAEALzQwAQBv
+LzQyBAAUHzAEAGsfOAQACBw0BAAHOBAvNDIEAAgBAgEDNAAPBAAADwEAHQE4AB8yBAAIGjABAC80
+MAEAby80MgQAGB8wBABnHzgEAAgcNAQAHzIEABQBAgEDNAAHBAAbMAwADwEAFQE0AB8yBAAIGjAB
+AC80MAEAby80MgQAGBswBAAfMgQABB8wBAA-HzgEAAgcNAQAHzIEABQDMAAqMDAMAA8BACUBRAAf
+MgQACBowAQAvNDABAG8vNDIEAEAfMAQAQBcxDAAIFAAPGAABHzIEABQfMAEAOy80MHAAGy80MAEA
+by80MgQAQB8wBABAHzIUAAEPBAAsHzABAAsfNAQAFAQBAAEQAB8yBAAIACUAGjEwAA8BAG0vNDIE
+AJgbMAQAHzIEACwfMAEACA9kABEDJAAEAQABEAAfMgQACB4wBAAPAQD-ah80IAAQLzQyBAAIHzAE
+AB0PAQD-fB80IAAQLzQyBAAIHzABAP_sHzQgABAvNDIEAAgWMAEALzQwAQD-oB80IAAQDwQACw8B
+AP_sD8ABLg8AAv---3sfNAQAAg8BAAsvNDABAO8bNAQADwEAZR80BAAQDwEABR80BAAmDwEA7x40
+BAAPAQBOHzQEADAEAQAMEAAPAQD-Hh80BAAQCAEAHzQEAAIPAQATHzQEABwIAQAfNAQACg8BAP8o
+HzQEABAIAQAfNAQAAg8BAEMXNAQACAEALzQwAQD-bB40BAAPAQD-2x40BAAPAQD-------------
+-------------------------------------------------------------------------2cf
+NAQAAg8BAP-YLjQyBAAPAAL-----8S80MgQAFw8BAK0vNDIAAv--fS80MgQArw8BAJkvNDIAAgMf
+NJAAZg8AAv8ELzQxBAADDAEADhgAD1QADB8yBAABDwAC-4EWMggACQQAHjEEAA4YAA8oAAgP-AEC
+DwACMy80MgQA5w8BAD0vNDIEAFgOvAEPBAD-SB8xBAAUDgAEDwQAMPEcIiksaGlkZGVuPWZhbHNl
+LG5hbWU9ImNvbGxpZGFibGUiLHBhbl94PTkzOQoA8gB5PTk4NCx0aWxlX2g9MTYKABB3CgCAem9v
+bT0xfX0=
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMSJdXQ==
+NC0wNCAxOTozNjowNCJdXQ==
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMCIscmV2aXNpb249ODIyXV1sejQAoAAAAAsKAAD-MHB4dQADKAAABAAED0AQ
-Ag4AAaABIAKgDgAPEAAN8MoBAgNADw_QBAUGB0AMkAgJCgtADJAPDA8NDw4MQAzw-wEA6-8nqgEQ
-Bg8gEAEgASAB8AACEAIOEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYOMAD-----
--70f-wEArM-ID0AADxBA--_w8P8BAP-qUP----8p
+NC0wNCAxOTozNjowNCIscmV2aXNpb249MTAwOF1dbHo0AKAAAAALCgAA-zBweHUAAygAAAQABA9A
+EAIOAAGgASACoA4ADxAADfDKAQIDQA8PkAQFBgdADJAICQoLQAyQDwwPDQ8ODEAM8P8BAOv-J6oB
+EAYPIBABIAEgAfAAAhACDhABIA8hIAEwD0Dwww8oD--wxg-4Cg--D4AP9w8NAfAJARAGDjAA----
+--_9H-8BAKzPyA9AAA8QQP--sPD-AQD-6lD-----KQ==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMSJdXQ==
+NC0wNCAxOTozNjowNCJdXQ==
 :: actors.lua
---[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-04 01:11:30",revision=996]]
+--[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-04 19:36:04",revision=1191]]
 -- Actor module for MEAT
 include "data.lua" -- For sprite info
 include "tilemap.lua" -- For tilemap interaction
@@ -117,8 +136,7 @@ function create_actor(type, newx, newy, playable)
 		spr(self.sprite_index + self.animreel[self.frame], self.x, self.y, self.hflip, self.vflip)
 	end
 	
-	function new_actor:collision()
-		
+	function new_actor:collision()	
 		nx = self.x + self.vx
 		ny = self.y + self.vy
 
@@ -138,7 +156,7 @@ function create_actor(type, newx, newy, playable)
 		if(self.vy < 0) then
 			for i = math.floor(self.y), math.floor(ny), -1 do
 				-- The "sideskin + 2" is because floor() biases to the left.
-				if is_solid16(nx + self.sideskin + 2, i) or is_solid16(nx + self.w - self.sideskin - 1, i) then
+				if is_solid16(nx + self.sideskin + 2, i + 1) or is_solid16(nx + self.w - self.sideskin - 1, i) then
 					self.vy = 0
 					self.y = i
 					break
@@ -146,11 +164,10 @@ function create_actor(type, newx, newy, playable)
 			end
 		end
 
-		
 		-- left
 		if(self.vx < 0) then
 			for i = math.floor(self.x), math.floor(nx), -1 do
-				if is_solid16(i + self.sideskin, self.y) or is_solid16(i + self.sideskin, self.y + self.h - 1) then
+				if is_solid16(i + self.sideskin, self.y + self.topskin) or is_solid16(i + self.sideskin, self.y + self.h - 1) then
 					self.vx = 0
 					self.x = i
 					break
@@ -161,16 +178,13 @@ function create_actor(type, newx, newy, playable)
 		-- right
 		if(self.vx > 0) then
 			for i = math.floor(self.x), math.floor(nx) do
-				if is_solid16(i + self.w - self.sideskin, self.y) or is_solid16(i + self.w - self.sideskin, self.y + self.h - 1) then
+				if is_solid16(i + self.w - self.sideskin, self.y + self.topskin) or is_solid16(i + self.w - self.sideskin, self.y + self.h - 1) then
 					self.vx = 0
 					self.x = i
 					break
 				end
 			end
 		end
-
-
-
 	end
 	
 	function new_actor:physics()
@@ -183,7 +197,6 @@ function create_actor(type, newx, newy, playable)
 		self.x += self.vx
 		self.y += self.vy
 
-		
 		-- On Ground physics only:
 		if(self.vx > 0 and self.vx > self.gspeed) then
 			self.vx = self.gspeed
@@ -264,8 +277,66 @@ function create_actor(type, newx, newy, playable)
 end
 
 
+:: camera.lua
+--[[pod_format="raw",created="2025-04-04 15:48:10",modified="2025-04-04 19:36:04",revision=198]]
+-- The camera module!
+
+camerax = 0
+cameray = 0
+camera_bx = 40
+camera_by = 16
+world_bound = true
+tsize = 16
+mapw = 128
+maph = 128
+
+function update_camera()
+	if(world_bound) then
+		if(camerax < 0) then
+	 		camerax = 0
+		end
+		if(cameray < 0) then
+			cameray = 0
+		end
+		
+		if(camerax > (mapw * tsize) - 480) then
+			camerax = (mapw * tsize) - 480
+		end
+		if(cameray > (maph * tsize) - 270) then
+			cameray = maph * tsize - 270
+		end
+	end
+
+	camera(camerax, cameray)
+	
+	
+end
+
+
+function lock_camera(entity)
+	camerax = entity.x - 256 + entity.w / 2
+	cameray = entity.y - 128 + entity.h / 2
+end
+
+
+function bound_camera(entity)
+	local px = entity.x - 256 + entity.w / 2
+	local py = entity.y - 128 + entity.h / 2
+
+	if px > camerax + camera_bx then
+		camerax = px - camera_bx
+	elseif px < camerax - camera_bx then
+		camerax = px + camera_bx
+	end
+
+	if py > cameray + camera_by then
+		cameray = py - camera_by
+	elseif py < cameray - camera_by then
+		cameray = py + camera_by
+	end
+end
 :: data.lua
---[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-04 01:11:30",revision=554]]
+--[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-04 19:36:04",revision=743]]
 -- Data stuff
 
 generic_anims = {
@@ -273,15 +344,14 @@ generic_anims = {
 	walk = {2, 3, 4, 3},
 }
 :: main.lua
---[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-04 01:11:30",revision=893]]
+--[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-04 19:36:04",revision=1110]]
 include "actors.lua"
+include "camera.lua"
 
 function _init()
 	create_actor(1, 100, 20, true)
-
 	create_actor(1, 200, 100)
 	create_actor(1, 260, 100)
-
 end
 
 
@@ -293,23 +363,27 @@ function _update()
 		actor:physics()
 	end
 	
-	camera(actors[1].x - 256 + actors[1].w / 2, actors[1].y - 128 + actors[1].h / 2)
+	bound_camera(actors[1])
+
 end
 
 
 function _draw()
 	cls(12)
 	
-	map(0,0,0,0,64,64)
+	map(0,0,0,0,128,128)
+	update_camera()
 
 	for i, actor in ipairs(actors) do
 		actor:animate()
 		actor:draw()
 	end
-	
+
+	print ("CAMX:" .. camerax .. "\nCAMY:" .. cameray, camerax, cameray)
+	print ("CAMTILE_X:" .. flr(camerax / tsize) .. "\nCAMTILE_Y:" .. flr(cameray / tsize), camerax, cameray + 22)
 end
 :: tilemap.lua
---[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-04 01:11:30",revision=442]]
+--[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-04 19:36:04",revision=632]]
 -- Tilemap module for MEAT
 include "utils.lua"
 
@@ -325,7 +399,7 @@ end
 	
 
 :: utils.lua
---[[pod_format="raw",created="2025-04-02 01:12:55",modified="2025-04-04 01:11:30",revision=320]]
+--[[pod_format="raw",created="2025-04-02 01:12:55",modified="2025-04-04 19:36:04",revision=511]]
 -- Utility funcs that a Python boy usually expects to just be there.
 
 function contains(list, value)
@@ -345,11 +419,12 @@ CiAgIAlpZiB2ID09IHZhbHVlIHRoZW4KCQkJcmV0dXJuIHRydWUKCQllbmQKCWVuZAoJcmV0dXJu
 IGZhbHNlCmVuZA==
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNCAwMToxMTozMSIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
-IzIwIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJhY3RvcnMubHVhIzgwIix3b3Jrc3Bh
+NC0wNCAxOTozNjowNCIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzM2Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJhY3RvcnMubHVhIzU3Iix3b3Jrc3Bh
 Y2VfaW5kZXg9MX0se2xvY2F0aW9uPSJkYXRhLmx1YSMxIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xv
-Y2F0aW9uPSJ0aWxlbWFwLmx1YSMxIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJ1dGls
-cy5sdWEjMSIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3Bh
-Y2VfaW5kZXg9Mn0se2xvY2F0aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9j
-YXRpb249InNmeC8wLnNmeCIsd29ya3NwYWNlX2luZGV4PTR9fV1d
+Y2F0aW9uPSJ0aWxlbWFwLmx1YSM0Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJ1dGls
+cy5sdWEjNyIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iY2FtZXJhLmx1YSMxNCIsd29y
+a3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9Mn0s
+e2xvY2F0aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249InNmeC8w
+LnNmeCIsd29ya3NwYWNlX2luZGV4PTR9fV1d
 :: [eoc]
