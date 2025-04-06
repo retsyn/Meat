@@ -4,7 +4,7 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNSIscmV2aXNpb249MTE0OV1dbHo0AJ8FAADlNwAA8yF7WzBdPXtibXA9cHh1
+NC0wNiAxODozNDozNSIscmV2aXNpb249MTM5MV1dbHo0AOoFAAAsOAAA8yF7WzBdPXtibXA9cHh1
 AEMgEBAE8FYHEAfAF9AXwAcQB-BWLGZsYWdzPTAscGFuX3gIAMd5PTAsem9vbT04fSw_APwxICAE
 8AIRYCHwAwEWAUABFgHwBBEGASABBgHwBwEGQQYB8AQhfx0R8AIRrhHwAQEuQQ5B8AEBHg0XEQcO
 BxEHAQ0A8lIuDScNDg0XDQHAQQ0uLS4dDgGgIS4Rrg0BkBENTgEdDiE_DRGQAQ1eIW0hkBENXg0P
@@ -29,14 +29,16 @@ HBQMChw0CiwaHBoMRAwqHEocBEwaDCQcGgwaFCw0DAoMGgwGAGEEHCocCgw8AD8MGgzXABzwAz8U
 DxUPFBQeDxUeFB4UDg0uHQQA8CkkHQ4dDgQNLh0_LS49Dg0eLQ4EDSQODQ4EPQ49Lh0eHV5NDj0O
 FA4NThQODQ4NLg0eFA40Hj0eJEIAMB40DSMA8AkORA4tHk0eBE4dDiQeHQ4dFC40Dg0OHQ4GACAE
 HusNATwAPw4dDlYCHg8xAP--------------o-8fHxUyDjJuIi4S-hMSLhLOMh4izjIuAo4SLiIu
-Es5CviJOMr4yjgIuEj4SLhL_F44AHg8xAP-------------------------------z9QbT04fX0=
+Es5CviJOMr4yjgIuEj4SLhL_F44AHaMsN1CXIMcQ1wDnAgD-BAYHBrcQJyZ3EAY3hiAWZzZgNkdU
+AB2yIEegl1C3MMcg1xBUAP8FpxYXAIcGNwYAdicWIEY3FkBXJmBoAR4PMQD-----------------
+-------------9xQbT04fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNiJdXQ==
+NC0wNiAxODozNDozNiJdXQ==
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ4Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNSIscmV2aXNpb249MTE1NV1dbHo0AKUFAABwAAEA8Ql7e2JtcD11c2VyZGF0
+NC0wNiAxODozNDozNSIscmV2aXNpb249MTM5Ml1dbHo0AAIHAADNAAIA8Ql7e2JtcD11c2VyZGF0
 YSgiaTE2IiwxMjgEAC8iMAEA----------------------------------------------------
 ------------------------------8sHzQEAAIPAQD-2B80BAACDwEA-9gfNAQAAg8BAP-YHzQE
 AAIPAQD-2B80BAACDwEAVy80MAEA-2wfNAQAIg8BADcvNDABAP9sHzQEACIPAQD-1B80BAAGDwEA
@@ -61,23 +63,36 @@ HzQEABAIAQAfNAQAAg8BAEMXNAQACAEALzQwAQD-bB40BAAPAQD-2x40BAAPAQD-------------
 NAQAAg8BAP-YLjQyBAAPAAL-----8S80MgQAFw8BAK0vNDIAAv--fS80MgQArw8BAJkvNDIAAgMf
 NJAAZg8AAv8ELzQxBAADDAEADhgAD1QADB8yBAABDwAC-4EWMggACQQAHjEEAA4YAA8oAAgP-AEC
 DwACMy80MgQA5w8BAD0vNDIEAFgOvAEPBAD-SB8xBAAUDgAEDwQAMPEcIiksaGlkZGVuPWZhbHNl
-LG5hbWU9ImNvbGxpZGFibGUiLHBhbl94PTkzOQoA8gB5PTk4NCx0aWxlX2g9MTYKABB3CgCAem9v
-bT0xfX0=
+LG5hbWU9ImNvbGxpZGFibGUiLHBhbl94PTkzOQoA8gB5PTk4NCx0aWxlX2g9MTYKABB3CgDxEHpv
+b209MX0se2JtcD11c2VyZGF0YSgiaTE2IiwxMjgEAC8iMAEA----------------------------
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+---------_zxCiIpLGhpZGRlbj1mYWxzZSxwYW5feD05MzkKAPIAeT05ODQsdGlsZV9oPTE2CgAQ
+dwoAgHpvb209MX19
+:: map/1.map
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA0LTA2IDE1OjIxOjE0Iixtb2RpZmllZD0iMjAyNS0w
+NC0wNiAxODozNDozNSIscmV2aXNpb249MTczXV1sejQA5AAAAE4QAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDMyAwBfIjAwODAEAG8PAQBiD4AA--8OfzgxMDA4MjCAAFAPAQAJD4AA--8RDqgCD4AA
+HQ8BADEPgAD-TA6MBA8kAjMOgAAPAQBJD4AAlw5wAQ8BAEMOgAAPOAAAD6AASA6AAA8BABkPgACX
+DjABDoAADwEATw_AAP_UDlwDD1ACBg8BAC4OgAAPAQBDDrAADoAADwEATw_AAP8IDwQAZ7EiKSxw
+YW5feD05OAkA8gB5PTIwNSx0aWxlX2g9MTYKABB3CgCAem9vbT0xfX0=
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNiJdXQ==
+NC0wNiAxODozNDozNiJdXQ==
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM1OjQ5Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNSIscmV2aXNpb249MTExMl1dbHo0AKAAAAALCgAA-zBweHUAAygAAAQABA9A
+NC0wNiAxODozNDozNSIscmV2aXNpb249MTM0OF1dbHo0AKAAAAALCgAA-zBweHUAAygAAAQABA9A
 EAIOAAGgASACoA4ADxAADfDKAQIDQA8PkAQFBgdADJAICQoLQAyQDwwPDQ8ODEAM8P8BAOv-J6oB
 EAYPIBABIAEgAfAAAhACDhABIA8hIAEwD0Dwww8oD--wxg-4Cg--D4AP9w8NAfAJARAGDjAA----
 --_9H-8BAKzPyA9AAA8QQP--sPD-AQD-6lD-----KQ==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNiJdXQ==
+NC0wNiAxODozNDozNiJdXQ==
 :: actors.lua
---[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-06 00:49:05",revision=1307]]
+--[[pod_format="raw",created="2025-03-05 17:41:28",modified="2025-04-06 18:34:35",revision=1552]]
 -- Actor module for MEAT
 include "data.lua" -- For sprite info
 include "tilemap.lua" -- For tilemap interaction
@@ -274,12 +289,30 @@ function create_actor(type, newx, newy, playable)
 		end
 	end
 	
+	function new_actor:collide_actor(other)
+		local ax1 = self.x + self.sideskin
+		local ay1 = self.y + self.topskin
+		local ax2 = self.x + self.w - self.sideskin
+		local ay2 = self.y + self.h -- assuming no bottomskin
+	
+		local bx1 = other.x + other.sideskin
+		local by1 = other.y + other.topskin
+		local bx2 = other.x + other.w - other.sideskin
+		local by2 = other.y + other.h
+	
+		if ax1 < bx2 and ax2 > bx1 and ay1 < by2 and ay2 > by1 then
+			return true
+		else
+			return false
+		end
+	end
+	
 	add(actors, new_actor)
 end
 
 
 :: camera.lua
---[[pod_format="raw",created="2025-04-04 15:48:10",modified="2025-04-06 00:49:05",revision=307]]
+--[[pod_format="raw",created="2025-04-04 15:48:10",modified="2025-04-06 18:34:35",revision=549]]
 -- The camera module!
 
 camerax = 0
@@ -309,8 +342,7 @@ function update_camera()
 	end
 
 	camera(camerax, cameray)
-	
-	
+		
 end
 
 
@@ -337,7 +369,7 @@ function bound_camera(entity)
 	end
 end
 :: data.lua
---[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-06 00:49:05",revision=850]]
+--[[pod_format="raw",created="2025-03-05 18:46:07",modified="2025-04-06 18:34:35",revision=1086]]
 -- Data stuff
 
 generic_anims = {
@@ -345,7 +377,7 @@ generic_anims = {
 	walk = {2, 3, 4, 3},
 }
 :: ephemerals.lua
---[[pod_format="raw",created="2025-04-06 00:13:16",modified="2025-04-06 00:49:05",revision=131]]
+--[[pod_format="raw",created="2025-04-06 00:13:16",modified="2025-04-06 18:34:35",revision=368]]
 -- Ephemerals Module, for particles and things that don't last.
 
 ephemerals = {}
@@ -398,7 +430,7 @@ function create_ephem(type, newx, newy, vx, vy)
 	add(ephemerals, new_ephem)
 end
 :: main.lua
---[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-06 00:49:05",revision=1232]]
+--[[pod_format="raw",created="2025-01-17 10:35:48",modified="2025-04-06 18:34:35",revision=1541]]
 include "actors.lua"
 include "camera.lua"
 include "ephemerals.lua"
@@ -407,6 +439,9 @@ function _init()
 	create_actor(1, 100, 20, true)
 	create_actor(1, 200, 100)
 	create_actor(1, 260, 100)
+	
+	-- Get the background map
+	bg = fetch("map/1.map")[1].bmp
 end
 
 
@@ -418,11 +453,21 @@ function _update()
 		actor:physics()
 	end
 		
+	-- Update Ephemerals
 	for i, ephem in ipairs(ephemerals) do
 		ephem:update()
 	end
 	
+	-- Bind Camera to first actor
 	bound_camera(actors[1])
+
+	-- Test collisions against actor #1 only.
+	for i = 2, #actors do
+		local other = actors[i]
+		if(actors[1]:collide_actor(other)) then
+			actors[1].vy = -2
+		end
+	end
 
 end
 
@@ -430,8 +475,15 @@ end
 function _draw()
 	cls(12)
 	
-	map(0,0,0,0,128,128)
+	-- draw background if BG is populated
+	if(bg != nil) then
+		draw_bg_layer(bg)
+	end
+
 	update_camera()
+
+	-- Draw foreground
+	map(0,0,0,0,128,128)
 
 	for i, actor in ipairs(actors) do
 		actor:animate()
@@ -442,26 +494,59 @@ function _draw()
 		ephem:animate()
 		ephem:draw()
 	end
+	
+	camera()
+	print("CAMX: " .. camerax .. "\nCAMY:" .. cameray)
 
-	print ("CAMX:" .. camerax .. "\nCAMY:" .. cameray, camerax, cameray)
-	print ("CAMTILE_X:" .. flr(camerax / tsize) .. "\nCAMTILE_Y:" .. flr(cameray / tsize), camerax, cameray + 22)
 end
 :: tilemap.lua
---[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-06 00:49:05",revision=738]]
+--[[pod_format="raw",created="2025-04-01 17:23:51",modified="2025-04-06 18:34:35",revision=1020]]
 -- Tilemap module for MEAT
-include "utils.lua"
+
+include "camera.lua"
+
+lowest_solid = 1
+highest_solid = 127
 
 
 function is_solid16(x, y)
-
-	if(mget(x // 16, y // 16, 0) != 0) then
+	local collided_index = mget(x//16, y//16, 0)
+	if(collided_index == nil) then
+		return true
+	end
+	if(collided_index >= lowest_solid and collided_index <= highest_solid) then
 		return true
 	else 
 		return false
 	end
 end
-	
 
+function draw_bg_layer(maplayer)
+	local mh = 32
+	local mw = 32 
+	local cx = camerax
+	local cy = cameray
+	if(cx < 0) cx = 0
+	if(cy < 0) cy = 0
+	if(cx > (mapw * tsize) - 480) then
+		cx = (mapw * tsize) - 480
+	end
+	if(cy > (maph * tsize) - 270) then
+		cy = maph * tsize - 270
+	end
+
+	for dx = -1, 1 do
+		for dy = -1, 1 do
+			local ox = (cx / 10 / mw) * mw
+			local oy = (cy / 10 / mh) * mh
+			map(bg,
+				0, 0, 
+				dx * mw * 16 - (cx / 10 % (mw * 8)),
+				dy * mh * 16 - (cy / 10 % (mh * 8)),
+				mw, mh)
+		end
+	end
+end
 :: utils.lua
 --[[pod_format="raw",created="2025-04-02 01:12:55",modified="2025-04-06 00:12:53",revision=512]]
 -- Utility funcs that a Python boy usually expects to just be there.
@@ -483,12 +568,13 @@ CiAgIAlpZiB2ID09IHZhbHVlIHRoZW4KCQkJcmV0dXJuIHRydWUKCQllbmQKCWVuZAoJcmV0dXJu
 IGZhbHNlCmVuZA==
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTAxLTE3IDEwOjM3OjQ1Iixtb2RpZmllZD0iMjAyNS0w
-NC0wNiAwMDo0OTowNiIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
-IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImFjdG9ycy5sdWEjMSIsd29ya3NwYWNl
-X2luZGV4PTF9LHtsb2NhdGlvbj0iZGF0YS5sdWEjMSIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2Nh
-dGlvbj0idGlsZW1hcC5sdWEjMSIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iY2FtZXJh
-Lmx1YSMxIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJlcGhlbWVyYWxzLmx1YSMyMCIs
-d29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9
-Mn0se2xvY2F0aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249InNm
-eC8wLnNmeCIsd29ya3NwYWNlX2luZGV4PTR9fV1d
+NC0wNiAxODozNDozNiIscnVudGltZT0xNyx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzUwIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJhY3RvcnMubHVhIzIwMiIsd29ya3Nw
+YWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZGF0YS5sdWEjMSIsd29ya3NwYWNlX2luZGV4PTF9LHts
+b2NhdGlvbj0idGlsZW1hcC5sdWEjMzIiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNh
+bWVyYS5sdWEjMjEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImVwaGVtZXJhbHMubHVh
+IzExIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFjZV9p
+bmRleD0yfSx7bG9jYXRpb249Im1hcC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2NhdGlv
+bj0ibWFwLzEubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdv
+cmtzcGFjZV9pbmRleD00fX1dXQ==
 :: [eoc]
